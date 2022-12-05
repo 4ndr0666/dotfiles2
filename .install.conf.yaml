@@ -37,8 +37,12 @@
     ~/.vimrc:
     ~/.zsh:
     ~/.zshrc:
+    ~/.config/mpv/mpv.conf:
+    ~/.config/backupmenu/backupmenu.cfg
 
 - create:
+  - ~/.config/backupmenu/
+  - ~/.config/mpv/
   - ~/.config/transmission/blocklists
   - ~/.config/transmission/resume
   - ~/.config/transmission/torrents
