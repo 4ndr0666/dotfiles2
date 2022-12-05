@@ -57,14 +57,6 @@ if [ -t 0 ]; then
     fi
 fi
 
-[ -f ~/.fzf.bash ] && source ~/.fzf.bash
-
-### Bashhub.com Installation.
-### This Should be at the EOF. https://bashhub.com/docs
-if [ -f ~/.bashhub/bashhub.sh ]; then
-    source ~/.bashhub/bashhub.sh
-fi
-
 ## Git Aliases
 gcom() {
     git add .

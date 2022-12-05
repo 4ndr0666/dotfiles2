@@ -1,3 +1,7 @@
+### ~4ndr0666 zshrc~ ###
+##
+#
+
 # Functions
 source ~/.shell/functions.sh
 
