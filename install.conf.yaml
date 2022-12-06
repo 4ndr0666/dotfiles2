@@ -38,7 +38,7 @@
     ~/.zsh:
     ~/.zshrc:
     ~/.config/mpv/mpv.conf:
-    ~/.config/backupmenu/backupmenu.cfg
+    ~/.config/backupmenu/backupmenu.cfg:
 
 - create:
   - ~/.config/backupmenu/
